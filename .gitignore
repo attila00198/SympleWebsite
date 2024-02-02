@@ -1,1 +1,4 @@
 venv/
+config/*
+instance/
+flaskr/__pycache__/
